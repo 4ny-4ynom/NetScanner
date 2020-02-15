@@ -1,0 +1,12 @@
+HOW TO USE ??
+
+-i, --ipaddress  --> ip adress
+
+
+In terminal;
+
+	python3 netscanner.py -i 192.168.1.0/24
+
+	python3 netscanner.py --interface 192.168.1.0/24
+
+
