@@ -5,7 +5,7 @@ FOR DOWNLOAD :
 
 In Terminal
 
-git clone https://github.com/4ny-4ynom/NetScanner
+git clone https://github.com/4ny-4ynom/NetScanner.git
 
 
 
