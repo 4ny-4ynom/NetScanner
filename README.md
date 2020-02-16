@@ -3,9 +3,9 @@ HackingTool
 
 FOR DOWNLOAD :
 
-In Terminal
+LINUX  ->>> In Terminal;
 
-git clone https://github.com/4ny-4ynom/NetScanner.git
+	git clone https://github.com/4ny-4ynom/NetScanner.git
 
 
 
